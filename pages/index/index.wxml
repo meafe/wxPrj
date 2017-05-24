@@ -1,7 +1,7 @@
 <view>
     <loading hidden="{{hidden}}">
         用户登录中... 
-    </loading>
+    </loading> 
 </view>
 <view class="container">
     <view  bindtap="bindViewTap" class="userinfo">
