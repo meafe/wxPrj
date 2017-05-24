@@ -12,7 +12,7 @@
             <view class="node-person">{{applyData.check_user}}</view>
             <view class="node-line"></view>
             <view class="node-desc">{{node2}}</view>
-        </view>
+        </view> 
         <view class="node" wx:if="{{applyData.state<=2}}">
           >>>
         </view>
