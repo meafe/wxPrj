@@ -1,6 +1,6 @@
 <view>
     <loading hidden="{{hidden}}">
-        用户登录中...
+        用户登录中... 
     </loading>
 </view>
 <view class="container">
